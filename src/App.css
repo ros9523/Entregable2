@@ -1,0 +1,40 @@
+body{
+    margin:0;
+}
+
+
+.App{
+
+height: 100vh;
+display: flex;
+justify-content: center; 
+align-items: center;
+
+}
+
+/* CHECK HOW CAN I PLACE THE ELEMENT AT THE CENTER */
+.card-container{
+   
+    padding: 2px;
+    text-align: center;
+    border-radius: 5%;
+    border: dotted green;
+    background-color:cornflowerblue
+    
+  
+}
+
+.container_image_description{
+
+    display: flex;
+   
+}
+
+ul{
+    text-align: left;
+    list-style: none;
+}
+
+.bx{
+font-size: 200px;
+}
